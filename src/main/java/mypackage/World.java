@@ -1,5 +1,4 @@
 package mypackage;
-import static mypackage.Hello.*;
 
 /**
  * Created by yusuke on 2016/12/03.
@@ -7,7 +6,6 @@ import static mypackage.Hello.*;
 public class World {
     public static void helloWorld(){
         System.out.println("hello world");
-        helloWorld();
     }
 
 }
