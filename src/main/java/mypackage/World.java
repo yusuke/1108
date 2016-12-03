@@ -1,4 +1,5 @@
 package mypackage;
+import static mypackage.Hello.*;
 
 /**
  * Created by yusuke on 2016/12/03.
